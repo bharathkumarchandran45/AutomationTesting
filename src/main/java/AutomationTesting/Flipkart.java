@@ -19,6 +19,7 @@ public class Flipkart {
         Thread.sleep(2000);
 
         driver.quit();
+
     }
 }
 

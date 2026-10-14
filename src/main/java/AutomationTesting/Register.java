@@ -38,7 +38,5 @@ public class Register {
         driver.findElement(By.id("register-button")).click();
 
         driver.quit();
-
-
     }
 }
